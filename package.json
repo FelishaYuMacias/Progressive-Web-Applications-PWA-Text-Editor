@@ -1,7 +1,7 @@
 {
   "name": "JATE",
   "version": "1.0.0",
-  "description": "",
+  "description": "A text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
@@ -12,7 +12,7 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "",
+  "author": "Felisha Yu-Macias",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
