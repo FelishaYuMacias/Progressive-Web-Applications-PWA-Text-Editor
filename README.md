@@ -65,8 +65,10 @@ npm i
 
 ## Usage
 
-### Deployed Site
+Visit the deployed site below. When you enter text it will save automatically when you click off of the window. If you refresh or revist the text will remain. If you go offline it will store your changes until you are back online. It is downloadable as a seperate app.
 
+### Deployed Site
+https://felisha-pwa-text-editor.herokuapp.com/
 
 ### Screenshots
 
